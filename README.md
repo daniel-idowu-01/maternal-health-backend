@@ -1,4 +1,4 @@
-# maternal-health-backend
+# Maternal Health Backend
 
 Backend API for maternal health data management.  
 
@@ -11,10 +11,7 @@ Provides RESTful endpoints to manage maternal health records, patient data, etc.
 - [Getting Started](#getting-started)  
 - [Configuration / Environment Variables](#configuration--environment-variables)  
 - [Running the Project](#running-the-project)  
-- [Testing](#testing)  
-- [Project Structure](#project-structure)  
-- [API Endpoints](#api-endpoints)  
-- [Notes / To Do](#notes--to-do)  
+- [Project Structure](#project-structure)
 - [License](#license)  
 
 ## Overview
@@ -39,5 +36,7 @@ It’s written in TypeScript for type safety, and structured in a clean, modular
    cd maternal-health-backend
    
 2. Install dependencies
-```bash
-npm install
+   ```bash
+   npm install
+
+
